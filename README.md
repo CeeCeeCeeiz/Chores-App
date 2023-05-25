@@ -1,2 +1,0 @@
-# Chores-App
-# Chores-App
